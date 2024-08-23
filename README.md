@@ -9,8 +9,8 @@ QuizApp is an Android application designed to test knowledge with a series of te
 - **Submit Answers**: Check your answer and get immediate feedback.
 - **Question Navigation**: Move to the next question or see the result after completing the quiz.
 - **Results Screen**: View the final score and review the performance after the quiz is completed.
-- **Timer**: Track the time spent on the quiz.
-- **Animated UI**: Includes animated buttons and transitions for an engaging user experience.
+
+
 
 ## Technologies
 - **Programming Language**: Java
